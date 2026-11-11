@@ -1,0 +1,2 @@
+#karakter #bulucu #neutral 
+

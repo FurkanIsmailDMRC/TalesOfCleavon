@@ -1,0 +1,1 @@
+#tengri #bozkır #mutasyon

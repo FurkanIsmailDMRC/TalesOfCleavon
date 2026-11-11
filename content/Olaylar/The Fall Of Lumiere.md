@@ -1,0 +1,1 @@
+#olay #savaş #eski

@@ -1,0 +1,7 @@
+- Arcane açılışı gibi sahne sahne bazı karakterler olaylar ve itemler gelecek.
+- Arkada main theme çalacak.
+- sahneler:
+- Mutant Katili'nin arbaleti ve bıçağını bir masanın üzerinde göreceğiz.
+- Neraxis ordusunu savaş pozisyonunda görüyoruz.
+- Alderyn prensini sürgün kral karşısında arenada görüyoruz.
+- Rath'in alderyn flamasını bulduğu yer.

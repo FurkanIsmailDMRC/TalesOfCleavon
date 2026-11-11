@@ -1,0 +1,10 @@
+
+### Külbağın Kader Günü
+
+Güneş, gökyüzünün tam tepesinde cehennemden kopmuş bir kor gibi asılı duruyor, kavurucu ve insafsız ışıklarıyla yeryüzünü adeta canlı canlı yakıyordu. Toprağın susuzluktan derin yarıklarla çatladığı, yaprakların bile sıcaktan küle dönüştüğü o kurak yaz gününde, ufkun kızıl çizgisinde devasa bir siluet belirdi. Gelenler, Neraxis Krallığı’nın ihtişamlı ama bir o kadar da ürpertici hükümdarı, onun efsanevi oğulları ve sadakatleri ölümle mühürlenmiş muhafız ordusuydu. Nalların altında ezilen kurak toprak, gökyüzüne doğru kilometrelerce öteden fark edilen, adeta güneşi boğmak isteyen devasa bir toz ejderhası doğurdu. Bu amansız toz dalgası, yaklaşan krallık gücünü çevre köylere fısıldayan bir felaket habercisi gibiydi.
+
+Külbağ köyü, kıtlığın ve ölümcül kuraklığın pençesinde son nefesini vermek üzereydi. Ufuktaki o görkemli toz bulutunu gören köylüler, asırlardır köyün ortasında duran, dalları göğe yükselen koca çınara doğru çaresizlik içinde koşmaya başladılar. Binlerce ayağın telaşla ezdiği toprak, köy meydanında öyle bir kargaşa yarattı ki, havaya kalkan yoğun toz tabakası yüzünden göz gözü görmez oldu; sanki gökyüzü yere inmişti.
+
+Ancak kral ve süvarileri meydanın kalbine ulaştığında, o boğucu atmosfer birden yerini sarsılmaz bir umuda bıraktı. Aylardır bir damla suya, bir lokma ekmeğe hasret kalan sefalet içindeki köylülerin yüreği, krallarının onlara getireceği gıda ve su ambarlarının hayaliyle yeniden çarpmaya başladı.
+
+Kral, heybetli atını yol kenarındaki harap bir çite bağlayarak, zırhının gıcırtıları eşliğinde yere adım attı. Onun hemen ardından, efsaneleri kulaktan kulağa fısıldanan oğulları sırayla bineklerinden indiler: Önce karanlık ve tekinsiz aurasıyla **Ölü Prens**, ardından tahtından uzakta büyüleyen mağrur duruşuyla **Sürgün Kral** ve nihayetinde gözlerinde henüz masumiyetin kırıntıları olan **Küçük Prens** ayak bastı Külbağ'ın kavrulmuş toprağına...
