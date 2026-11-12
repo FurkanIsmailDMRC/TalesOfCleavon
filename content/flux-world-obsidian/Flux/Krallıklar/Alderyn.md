@@ -5,14 +5,14 @@ Demacia benzeri bir yapı — adalet söylemi güçlü ama hiç adil değil. Bü
 -- -
 ## Genel Bilgi
 
-- **Başkent:** *[[Lumiere]] 
-- **Yönetim Biçimi:** *Mutlak monarşi + yüksek konsey
-- **Yönetim Anlayışı:** *Katı adalet düzeni
-- **Sembol:** *Turuncu yapraklı beyaz ağaç
-- **Askeri Güç:** *Disiplinli piyade birliği
-- **Ana Gelir:** *Ticaret
+- **Başkent:** *[[Lumiere]]* 
+- **Yönetim Biçimi:** *Mutlak monarşi + yüksek konsey*
+- **Yönetim Anlayışı:** *Katı adalet düzeni*
+- **Sembol:** *Turuncu yapraklı beyaz ağaç*
+- **Askeri Güç:** *Disiplinli piyade birliği*
+- **Ana Gelir:** *Ticaret*
 - **Yasaklar:** *Mutasyon ve büyü*
-- **Coğrafya:** *Çoğunlukla nehirli ova
+- **Coğrafya:** *Çoğunlukla nehirli ova*
 - **Takvim:** *Yıkım Takvimi*
 - **Din:** *Ana Din*
 - **Kral:** *[[Kral Endric]]*
