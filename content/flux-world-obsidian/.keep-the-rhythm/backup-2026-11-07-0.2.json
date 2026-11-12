@@ -1,0 +1,5032 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 100,
+    "preferredUnit": "WORD",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": false,
+    "ignoreComments": false,
+    "ignoreTasks": false,
+    "ignoreDeletedFiles": false,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "alignLeft": false,
+      "numberOfWeeks": 52,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 0,
+        "medium": 500,
+        "high": 300
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    },
+    "backupConfig": {
+      "enabled": true,
+      "folderPath": ".keep-the-rhythm",
+      "maxNumberOfBackups": 3
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2026-06-06",
+      "2026-06-08",
+      "2026-06-09",
+      "2026-06-11",
+      "2026-06-13",
+      "2026-06-14",
+      "2026-06-18",
+      "2026-06-24",
+      "2026-06-28",
+      "2026-07-10",
+      "2026-07-21"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-06-06.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-05-23.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-05-08.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 3
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-04-11.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-04-08.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-03-27.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 6
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-03-19.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-04-16.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-04-23.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "2026-05-30.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Kaleler/Başlıksız.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 26,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Olaylar/Kral Öğütü - Boş Çarşı.md",
+        "wordCountStart": 157,
+        "charCountStart": 1331,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Olaylar/The Great Destruction.md",
+        "wordCountStart": 140,
+        "charCountStart": 1038,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 39,
+        "charCountStart": 352,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 3,
+            "c": 31
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 642,
+        "charCountStart": 5448,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": -1,
+            "c": -11
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 236,
+        "charCountStart": 2009,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 2,
+        "charCountStart": 27,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:15",
+            "w": 44,
+            "c": 417
+          },
+          {
+            "timeKey": "23:55",
+            "w": 5,
+            "c": 37
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 2,
+        "charCountStart": 17,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 3,
+            "c": 40
+          },
+          {
+            "timeKey": "22:30",
+            "w": 1,
+            "c": 14
+          },
+          {
+            "timeKey": "22:35",
+            "w": 22,
+            "c": 189
+          },
+          {
+            "timeKey": "22:40",
+            "w": 2,
+            "c": 17
+          },
+          {
+            "timeKey": "22:45",
+            "w": 4,
+            "c": 32
+          },
+          {
+            "timeKey": "23:10",
+            "w": 5,
+            "c": 49
+          },
+          {
+            "timeKey": "23:15",
+            "w": 7,
+            "c": 88
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Şehirler/Vharnor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Şehirler/Lumiere.md",
+        "wordCountStart": 67,
+        "charCountStart": 516,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Şehirler/Yeni Lumiere.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Şehirler/Korvath.md",
+        "wordCountStart": 21,
+        "charCountStart": 160,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Kaleler/Deepwatch.md",
+        "wordCountStart": 24,
+        "charCountStart": 198,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 28
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Şehirler/Tyre.md",
+        "wordCountStart": 6,
+        "charCountStart": 40,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Kaleler/Kavşak Hisarı.md",
+        "wordCountStart": 2,
+        "charCountStart": 22,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 426,
+        "charCountStart": 3682,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Mutantlar Birliği.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-06-06",
+        "filePath": "Flux/Yaratıklar/Keçi Boynuzlu Atlar.md",
+        "wordCountStart": 2,
+        "charCountStart": 18,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 46,
+        "charCountStart": 446,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 3,
+            "c": 44
+          },
+          {
+            "timeKey": "00:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": -13
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 51,
+        "charCountStart": 481,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 237,
+        "charCountStart": 2023,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 36
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 641,
+        "charCountStart": 5437,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 386,
+        "charCountStart": 3200,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 426,
+        "charCountStart": 3686,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": -4,
+            "c": -17
+          },
+          {
+            "timeKey": "00:15",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 128,
+        "charCountStart": 1007,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 40,
+            "c": 374
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 42,
+        "charCountStart": 383,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 41
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Teofitler.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 5,
+            "c": 47
+          },
+          {
+            "timeKey": "00:25",
+            "w": 47,
+            "c": 353
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:05",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 42
+      },
+      {
+        "date": "2026-06-07",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Osmitler.md",
+        "wordCountStart": 166,
+        "charCountStart": 1274,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 43
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Osmitler.md",
+        "wordCountStart": 166,
+        "charCountStart": 1269,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "00:45",
+            "w": 323,
+            "c": 2596
+          },
+          {
+            "timeKey": "00:50",
+            "w": 2,
+            "c": 23
+          },
+          {
+            "timeKey": "00:55",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Teofitler.md",
+        "wordCountStart": 56,
+        "charCountStart": 438,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 8,
+            "c": 78
+          },
+          {
+            "timeKey": "00:35",
+            "w": 202,
+            "c": 1637
+          },
+          {
+            "timeKey": "00:40",
+            "w": 48,
+            "c": 388
+          },
+          {
+            "timeKey": "00:50",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "00:55",
+            "w": -1,
+            "c": -3
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 423,
+        "charCountStart": 3676,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 43,
+        "charCountStart": 392,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 49,
+        "charCountStart": 478,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 237,
+        "charCountStart": 2028,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 641,
+        "charCountStart": 5437,
+        "changes": [
+          {
+            "timeKey": "23:05",
+            "w": 19,
+            "c": 173
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 51,
+        "charCountStart": 481,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 389,
+        "charCountStart": 3230,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 168,
+        "charCountStart": 1381,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 217,
+        "charCountStart": 1852,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Krallıklar/Vikingler.md",
+        "wordCountStart": 96,
+        "charCountStart": 800,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 55
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Kavramlar/Alder Şurubu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 50,
+            "c": 407
+          },
+          {
+            "timeKey": "23:05",
+            "w": 8,
+            "c": 65
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Karakterler & Topluluklar/Alderyn Simyageri.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:05",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Kavramlar/Fluxium.md",
+        "wordCountStart": 146,
+        "charCountStart": 1200,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": 18,
+            "c": 132
+          }
+        ],
+        "id": 58
+      },
+      {
+        "date": "2026-06-08",
+        "filePath": "Flux/Mekanlar/The Grand Academia.md",
+        "wordCountStart": 76,
+        "charCountStart": 598,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 41,
+            "c": 371
+          },
+          {
+            "timeKey": "00:05",
+            "w": 35,
+            "c": 288
+          },
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "23:55",
+            "w": -2,
+            "c": -11
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Mekanlar/Engebeli Neraxis Yarımadası.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 4,
+            "c": 41
+          },
+          {
+            "timeKey": "00:20",
+            "w": 20,
+            "c": 185
+          },
+          {
+            "timeKey": "00:25",
+            "w": 13,
+            "c": 115
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Olaylar/Lumiere Antlaşması.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "00:35",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 61
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Olaylar/50 Yıl Savaşları.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 40,
+            "c": 361
+          },
+          {
+            "timeKey": "00:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Mekanlar/The Grand Academia.md",
+        "wordCountStart": 150,
+        "charCountStart": 1245,
+        "changes": [],
+        "id": 63
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Mekanlar/Neraxis Boynu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:50",
+            "w": 35,
+            "c": 270
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/İlk Mutantlar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:50",
+            "w": 42,
+            "c": 347
+          },
+          {
+            "timeKey": "00:55",
+            "w": 43,
+            "c": 376
+          }
+        ],
+        "id": 65
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Kavramlar/Feodal Çağ.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 8,
+            "c": 81
+          },
+          {
+            "timeKey": "01:00",
+            "w": 9,
+            "c": 64
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Alderyn Simyageri.md",
+        "wordCountStart": 3,
+        "charCountStart": 30,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 34,
+            "c": 288
+          },
+          {
+            "timeKey": "01:05",
+            "w": 13,
+            "c": 128
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Aksonitler.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 27,
+            "c": 230
+          },
+          {
+            "timeKey": "01:10",
+            "w": 134,
+            "c": 1061
+          },
+          {
+            "timeKey": "01:15",
+            "w": 251,
+            "c": 2121
+          },
+          {
+            "timeKey": "01:20",
+            "w": 61,
+            "c": 517
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Osmitler.md",
+        "wordCountStart": 491,
+        "charCountStart": 3896,
+        "changes": [],
+        "id": 69
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Teofitler.md",
+        "wordCountStart": 313,
+        "charCountStart": 2537,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 106,
+        "charCountStart": 895,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 423,
+        "charCountStart": 3676,
+        "changes": [],
+        "id": 72
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 423,
+        "charCountStart": 3676,
+        "changes": [],
+        "id": 73
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutant Katili.md",
+        "wordCountStart": 134,
+        "charCountStart": 1133,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": 49,
+            "c": 357
+          }
+        ],
+        "id": 74
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutant Katili.md",
+        "wordCountStart": 183,
+        "charCountStart": 1490,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 75
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/State Of İnovation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 15,
+            "c": 138
+          },
+          {
+            "timeKey": "00:20",
+            "w": 18,
+            "c": 153
+          },
+          {
+            "timeKey": "00:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "00:45",
+            "w": 5,
+            "c": 45
+          }
+        ],
+        "id": 76
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Güney İç Denizi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 15,
+            "c": 125
+          },
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 77
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Death Pits.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 38,
+            "c": 297
+          },
+          {
+            "timeKey": "00:30",
+            "w": 30,
+            "c": 231
+          },
+          {
+            "timeKey": "00:35",
+            "w": 13,
+            "c": 108
+          },
+          {
+            "timeKey": "00:40",
+            "w": 53,
+            "c": 463
+          },
+          {
+            "timeKey": "00:50",
+            "w": 81,
+            "c": 684
+          },
+          {
+            "timeKey": "00:55",
+            "w": 5,
+            "c": 35
+          }
+        ],
+        "id": 78
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 217,
+        "charCountStart": 1856,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Vikingler.md",
+        "wordCountStart": 96,
+        "charCountStart": 804,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 168,
+        "charCountStart": 1381,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 49,
+        "charCountStart": 478,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 43,
+        "charCountStart": 392,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 51,
+        "charCountStart": 481,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Yaratıklar/Blind Crawlers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Boşaltım Tepesi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 45,
+            "c": 377
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Çöl Geçidi.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": -3,
+            "c": -22
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Güney Çölleri.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:55",
+            "w": 19,
+            "c": 121
+          },
+          {
+            "timeKey": "01:00",
+            "w": 26,
+            "c": 211
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Mercan Denizi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 65,
+            "c": 543
+          },
+          {
+            "timeKey": "01:05",
+            "w": 0,
+            "c": 7
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Cleavon Nehri.md",
+        "wordCountStart": 2,
+        "charCountStart": 23,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Crownkeel.md",
+        "wordCountStart": 39,
+        "charCountStart": 321,
+        "changes": [],
+        "id": 91
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Mekanlar/Ağlayan Dağ.md",
+        "wordCountStart": 37,
+        "charCountStart": 291,
+        "changes": [],
+        "id": 92
+      },
+      {
+        "date": "2026-06-11",
+        "filePath": "Flux/Şehirler/Tyre.md",
+        "wordCountStart": 6,
+        "charCountStart": 40,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 26,
+            "c": 211
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "Flux/Mekanlar/Kartal Kayası.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 38,
+            "c": 299
+          },
+          {
+            "timeKey": "00:15",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 94
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "Flux/Şehirler/Tyre.md",
+        "wordCountStart": 32,
+        "charCountStart": 251,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "Flux/Karakterler & Topluluklar/Dedektif Charles.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2026-06-13",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:45",
+            "w": 44,
+            "c": 353
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2026-06-13",
+        "filePath": "Flux/Eyal.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 98
+      },
+      {
+        "date": "2026-06-13",
+        "filePath": "Flux/Eyaletler/Kuzey Galvatya.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:50",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "23:55",
+            "w": 15,
+            "c": 147
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2026-06-13",
+        "filePath": "Flux/Eyaletler/Güney Galvatya.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": 45,
+            "c": 408
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2026-06-13",
+        "filePath": "Flux/Karakterler & Topluluklar/Raphael.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Raphael.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Dranor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:55",
+            "w": 25,
+            "c": 214
+          },
+          {
+            "timeKey": "23:00",
+            "w": -1,
+            "c": 9
+          },
+          {
+            "timeKey": "23:05",
+            "w": 4,
+            "c": 52
+          },
+          {
+            "timeKey": "23:10",
+            "w": 8,
+            "c": 58
+          }
+        ],
+        "id": 103
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 106,
+        "charCountStart": 895,
+        "changes": [],
+        "id": 104
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Sürgün Kral.md",
+        "wordCountStart": 238,
+        "charCountStart": 1811,
+        "changes": [],
+        "id": 105
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Soylu Alderyn Leydisi.md",
+        "wordCountStart": 59,
+        "charCountStart": 476,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Şehirler/Vharnor.md",
+        "wordCountStart": 2,
+        "charCountStart": 16,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 107
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/Gri Maskeliler.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [
+          {
+            "timeKey": "23:10",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "23:15",
+            "w": 9,
+            "c": 93
+          },
+          {
+            "timeKey": "23:20",
+            "w": 9,
+            "c": 70
+          },
+          {
+            "timeKey": "23:25",
+            "w": 56,
+            "c": 508
+          },
+          {
+            "timeKey": "23:30",
+            "w": 75,
+            "c": 659
+          },
+          {
+            "timeKey": "23:35",
+            "w": 39,
+            "c": 287
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 109
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "23:40",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 110
+      },
+      {
+        "date": "2026-06-14",
+        "filePath": "Flux/Mekanlar/Yeraltı Mahzeni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 111
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2026-06-17",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Karakterler & Topluluklar/Dedektif Charles.md",
+        "wordCountStart": 19,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 116
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 13,
+            "c": 85
+          },
+          {
+            "timeKey": "00:05",
+            "w": 55,
+            "c": 401
+          },
+          {
+            "timeKey": "00:10",
+            "w": 38,
+            "c": 249
+          },
+          {
+            "timeKey": "00:15",
+            "w": 69,
+            "c": 544
+          },
+          {
+            "timeKey": "00:20",
+            "w": 101,
+            "c": 741
+          },
+          {
+            "timeKey": "23:00",
+            "w": 149,
+            "c": 855
+          },
+          {
+            "timeKey": "23:05",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "23:30",
+            "w": -148,
+            "c": -843
+          },
+          {
+            "timeKey": "23:35",
+            "w": -2,
+            "c": -20
+          },
+          {
+            "timeKey": "23:40",
+            "w": 28,
+            "c": 220
+          },
+          {
+            "timeKey": "23:45",
+            "w": 84,
+            "c": 663
+          },
+          {
+            "timeKey": "23:50",
+            "w": 48,
+            "c": 336
+          },
+          {
+            "timeKey": "23:55",
+            "w": 11,
+            "c": 75
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Krallıklar/State Of İnovation.md",
+        "wordCountStart": 38,
+        "charCountStart": 338,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 237,
+        "charCountStart": 2032,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 26,
+        "charCountStart": 165,
+        "changes": [],
+        "id": 120
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 44,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 660,
+        "charCountStart": 5614,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 122
+      },
+      {
+        "date": "2026-06-18",
+        "filePath": "Flux/Krallıklar/Vikingler.md",
+        "wordCountStart": 96,
+        "charCountStart": 804,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2026-06-19",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 447,
+        "charCountStart": 3314,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2026-06-19",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 1,
+        "charCountStart": 9,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 125
+      },
+      {
+        "date": "2026-06-19",
+        "filePath": "Flux/Yıkım Takvimi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 7,
+            "c": 63
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 448,
+        "charCountStart": 3324,
+        "changes": [],
+        "id": 127
+      },
+      {
+        "date": "2026-06-22",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:35",
+            "w": 49,
+            "c": 411
+          },
+          {
+            "timeKey": "01:40",
+            "w": 17,
+            "c": 141
+          },
+          {
+            "timeKey": "01:45",
+            "w": 32,
+            "c": 236
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 98,
+        "charCountStart": 788,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 660,
+        "charCountStart": 5614,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Aksonitler.md",
+        "wordCountStart": 473,
+        "charCountStart": 3929,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/İlk Mutantlar.md",
+        "wordCountStart": 85,
+        "charCountStart": 723,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Mutantlar Birliği.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Osmitler.md",
+        "wordCountStart": 491,
+        "charCountStart": 3896,
+        "changes": [],
+        "id": 134
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Teofitler.md",
+        "wordCountStart": 313,
+        "charCountStart": 2537,
+        "changes": [],
+        "id": 135
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 389,
+        "charCountStart": 3242,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 51,
+        "charCountStart": 481,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 49,
+        "charCountStart": 478,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 1,
+        "charCountStart": 11,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "17:25",
+            "w": 49,
+            "c": 319
+          },
+          {
+            "timeKey": "17:30",
+            "w": 74,
+            "c": 587
+          },
+          {
+            "timeKey": "17:35",
+            "w": 99,
+            "c": 743
+          },
+          {
+            "timeKey": "17:40",
+            "w": 7,
+            "c": 68
+          },
+          {
+            "timeKey": "17:45",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "17:50",
+            "w": 51,
+            "c": 413
+          },
+          {
+            "timeKey": "17:55",
+            "w": 14,
+            "c": 88
+          },
+          {
+            "timeKey": "18:00",
+            "w": 19,
+            "c": 108
+          },
+          {
+            "timeKey": "18:20",
+            "w": 19,
+            "c": 164
+          },
+          {
+            "timeKey": "18:25",
+            "w": 99,
+            "c": 672
+          },
+          {
+            "timeKey": "18:30",
+            "w": 23,
+            "c": 168
+          },
+          {
+            "timeKey": "18:55",
+            "w": 14,
+            "c": 114
+          },
+          {
+            "timeKey": "19:00",
+            "w": 49,
+            "c": 311
+          },
+          {
+            "timeKey": "19:05",
+            "w": 43,
+            "c": 325
+          },
+          {
+            "timeKey": "19:10",
+            "w": 30,
+            "c": 235
+          },
+          {
+            "timeKey": "19:15",
+            "w": 17,
+            "c": 100
+          },
+          {
+            "timeKey": "19:20",
+            "w": 14,
+            "c": 93
+          },
+          {
+            "timeKey": "19:25",
+            "w": 88,
+            "c": 588
+          },
+          {
+            "timeKey": "19:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 139
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 732,
+        "charCountStart": 5280,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Brotherhood of the Holy Anathema.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 141
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/Gri Maskeliler.md",
+        "wordCountStart": 192,
+        "charCountStart": 1656,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Mutantlar Birliği.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/İlk Mutantlar.md",
+        "wordCountStart": 85,
+        "charCountStart": 723,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 144
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 98,
+        "charCountStart": 788,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 26,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 17
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Brotherhood of the Holy Anathema.md",
+        "wordCountStart": 1,
+        "charCountStart": 9,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 55,
+            "c": 462
+          },
+          {
+            "timeKey": "00:15",
+            "w": 87,
+            "c": 659
+          },
+          {
+            "timeKey": "00:20",
+            "w": 30,
+            "c": 265
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/Gri Maskeliler.md",
+        "wordCountStart": 193,
+        "charCountStart": 1666,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 98,
+        "charCountStart": 788,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 17,
+            "c": 135
+          },
+          {
+            "timeKey": "00:25",
+            "w": 34,
+            "c": 293
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 150
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 149,
+        "charCountStart": 1216,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 43,
+        "charCountStart": 392,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 3,
+            "c": 21
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 49,
+        "charCountStart": 478,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 3,
+            "c": 21
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 237,
+        "charCountStart": 2032,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 4,
+            "c": 29
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 168,
+        "charCountStart": 1381,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 25
+          },
+          {
+            "timeKey": "15:35",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "15:40",
+            "w": 41,
+            "c": 332
+          },
+          {
+            "timeKey": "15:45",
+            "w": 0,
+            "c": 15
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 660,
+        "charCountStart": 5614,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "15:35",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 423,
+        "charCountStart": 3676,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 4,
+            "c": 30
+          }
+        ],
+        "id": 157
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 53,
+        "charCountStart": 502,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 389,
+        "charCountStart": 3242,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 3,
+            "c": 21
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/State Of İnovation.md",
+        "wordCountStart": 38,
+        "charCountStart": 338,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-06-29",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 217,
+        "charCountStart": 1856,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 427,
+        "charCountStart": 3706,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 212,
+        "charCountStart": 1780,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-06-30",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 149,
+        "charCountStart": 1216,
+        "changes": [],
+        "id": 164
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 427,
+        "charCountStart": 3707,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Ölü Prens.md",
+        "wordCountStart": 78,
+        "charCountStart": 590,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 54,
+            "c": 384
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 149,
+        "charCountStart": 1216,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 7,
+            "c": 42
+          },
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 167
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Neraxis Kraliçesi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 663,
+        "charCountStart": 5635,
+        "changes": [],
+        "id": 169
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/2.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/Gri Maskeliler.md",
+        "wordCountStart": 193,
+        "charCountStart": 1666,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Mutantlar Birliği.md",
+        "wordCountStart": 3,
+        "charCountStart": 29,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/İlk Mutantlar.md",
+        "wordCountStart": 86,
+        "charCountStart": 733,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Taşkınlar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Diller/Rhayca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Diller/Cleavon Ana Dili.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Eyaletler/Güney Galvatya.md",
+        "wordCountStart": 45,
+        "charCountStart": 408,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Eyaletler/Kuzey Galvatya.md",
+        "wordCountStart": 17,
+        "charCountStart": 166,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 8,
+            "c": 62
+          }
+        ],
+        "id": 178
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Korvath Yolu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Brotherhood of the Holy Anathema.md",
+        "wordCountStart": 173,
+        "charCountStart": 1395,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Kardeşlikten Alderyn Konsey üyesi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Kuzey Balinaları.md",
+        "wordCountStart": 3,
+        "charCountStart": 28,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 7,
+            "c": 34
+          },
+          {
+            "timeKey": "12:50",
+            "w": 48,
+            "c": 339
+          },
+          {
+            "timeKey": "12:55",
+            "w": 49,
+            "c": 331
+          },
+          {
+            "timeKey": "13:00",
+            "w": 149,
+            "c": 1217
+          }
+        ],
+        "id": 184
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Neraxis Panayırları.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Fluxium.md",
+        "wordCountStart": 164,
+        "charCountStart": 1332,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": -1,
+            "c": -10
+          }
+        ],
+        "id": 186
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Mutasyon.md",
+        "wordCountStart": 112,
+        "charCountStart": 918,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": -2,
+            "c": -19
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Cronium.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 188
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Bulucular.md",
+        "wordCountStart": 41,
+        "charCountStart": 342,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": -1,
+            "c": -13
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Dinler/Güney Dini.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Dinler/Rhaynizim.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kaleler/Deepwatch.md",
+        "wordCountStart": 24,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kaleler/Kavşak Hisarı.md",
+        "wordCountStart": 3,
+        "charCountStart": 28,
+        "changes": [],
+        "id": 193
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Aksonitler.md",
+        "wordCountStart": 472,
+        "charCountStart": 3923,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Osmitler.md",
+        "wordCountStart": 491,
+        "charCountStart": 3896,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Teofitler.md",
+        "wordCountStart": 313,
+        "charCountStart": 2537,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 106,
+        "charCountStart": 895,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Alderyn Simyageri.md",
+        "wordCountStart": 50,
+        "charCountStart": 446,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Alfa Kurt.md",
+        "wordCountStart": 63,
+        "charCountStart": 512,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Çelebi.md",
+        "wordCountStart": 126,
+        "charCountStart": 980,
+        "changes": [],
+        "id": 200
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Dedektif Charles.md",
+        "wordCountStart": 19,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Koca Viking.md",
+        "wordCountStart": 22,
+        "charCountStart": 217,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Dranor.md",
+        "wordCountStart": 36,
+        "charCountStart": 333,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Naibi Amca.md",
+        "wordCountStart": 2,
+        "charCountStart": 20,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Küçük Prens.md",
+        "wordCountStart": 74,
+        "charCountStart": 557,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutant Katili.md",
+        "wordCountStart": 183,
+        "charCountStart": 1490,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Arthur.md",
+        "wordCountStart": 2,
+        "charCountStart": 15,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Shiny Knigth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Raphael.md",
+        "wordCountStart": 1,
+        "charCountStart": 10,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Rath The Finder.md",
+        "wordCountStart": 3,
+        "charCountStart": 29,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Soylu Alderyn Leydisi.md",
+        "wordCountStart": 59,
+        "charCountStart": 476,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Sürgün Kral.md",
+        "wordCountStart": 238,
+        "charCountStart": 1811,
+        "changes": [],
+        "id": 212
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Karakterler & Topluluklar/Tengri Ana Karakteri.md",
+        "wordCountStart": 67,
+        "charCountStart": 521,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kasabalar/Arınma Pınarı.md",
+        "wordCountStart": 2,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kasabalar/Külbağ.md",
+        "wordCountStart": 2,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kasabalar/Yosunlu Doruk.md",
+        "wordCountStart": 2,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Alder Şurubu.md",
+        "wordCountStart": 58,
+        "charCountStart": 472,
+        "changes": [],
+        "id": 217
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Diyarlar.md",
+        "wordCountStart": 32,
+        "charCountStart": 230,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Feodal Çağ.md",
+        "wordCountStart": 17,
+        "charCountStart": 145,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Master Rhino Armor.md",
+        "wordCountStart": 2,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 220
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Kavramlar/Rhinet Çeliği.md",
+        "wordCountStart": 2,
+        "charCountStart": 16,
+        "changes": [],
+        "id": 221
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 240,
+        "charCountStart": 2055,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 46,
+        "charCountStart": 413,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 52,
+        "charCountStart": 499,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Güney Krallıkları.md",
+        "wordCountStart": 53,
+        "charCountStart": 502,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 389,
+        "charCountStart": 3245,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Rhinet.md",
+        "wordCountStart": 212,
+        "charCountStart": 1780,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/State Of İnovation.md",
+        "wordCountStart": 38,
+        "charCountStart": 338,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 216,
+        "charCountStart": 1850,
+        "changes": [],
+        "id": 229
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Krallıklar/Vikingler.md",
+        "wordCountStart": 95,
+        "charCountStart": 798,
+        "changes": [],
+        "id": 230
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Ağlayan Dağ.md",
+        "wordCountStart": 37,
+        "charCountStart": 291,
+        "changes": [],
+        "id": 231
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/The Grand Academia.md",
+        "wordCountStart": 150,
+        "charCountStart": 1245,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Akçaağaç Ormanı.md",
+        "wordCountStart": 123,
+        "charCountStart": 962,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Boşaltım Tepesi.md",
+        "wordCountStart": 45,
+        "charCountStart": 377,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Büyük Alderyn Çarşısı.md",
+        "wordCountStart": 35,
+        "charCountStart": 282,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Cleavon Kavşağı.md",
+        "wordCountStart": 2,
+        "charCountStart": 23,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Cleavon Nehri.md",
+        "wordCountStart": 3,
+        "charCountStart": 30,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Crownkeel.md",
+        "wordCountStart": 39,
+        "charCountStart": 321,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Death Pits.md",
+        "wordCountStart": 220,
+        "charCountStart": 1818,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Engebeli Neraxis Yarımadası.md",
+        "wordCountStart": 37,
+        "charCountStart": 341,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Güney Çölleri.md",
+        "wordCountStart": 45,
+        "charCountStart": 332,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Güney İç Denizi.md",
+        "wordCountStart": 15,
+        "charCountStart": 126,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Karakum & Karakar.md",
+        "wordCountStart": 2,
+        "charCountStart": 14,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Kartal Kayası.md",
+        "wordCountStart": 40,
+        "charCountStart": 322,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Kılcal Kanallar.md",
+        "wordCountStart": 41,
+        "charCountStart": 367,
+        "changes": [],
+        "id": 245
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Körfez Feneri.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 246
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Krater Geçidi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 247
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Krater Körfezi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Krater Limanı.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 249
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Kutup Geçidi.md",
+        "wordCountStart": 3,
+        "charCountStart": 26,
+        "changes": [],
+        "id": 250
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Kuzey Zirveleri.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 251
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Len's Patch.md",
+        "wordCountStart": 67,
+        "charCountStart": 487,
+        "changes": [],
+        "id": 252
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Lumiere Taş Köprü.md",
+        "wordCountStart": 1,
+        "charCountStart": 9,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Mercan Denizi.md",
+        "wordCountStart": 65,
+        "charCountStart": 550,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Mozaik Çölü.md",
+        "wordCountStart": 44,
+        "charCountStart": 352,
+        "changes": [],
+        "id": 255
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Neraxis Boynu.md",
+        "wordCountStart": 35,
+        "charCountStart": 270,
+        "changes": [],
+        "id": 256
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Pus Vadisi.md",
+        "wordCountStart": 3,
+        "charCountStart": 34,
+        "changes": [],
+        "id": 257
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Mekanlar/Yeraltı Mahzeni.md",
+        "wordCountStart": 2,
+        "charCountStart": 16,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/1 V 5,6,7.md",
+        "wordCountStart": 50,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 259
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Alderyn - Neraxis Savaşları.md",
+        "wordCountStart": 4,
+        "charCountStart": 31,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Alden Alder ile Sürgün Kral Turnuva.md",
+        "wordCountStart": 255,
+        "charCountStart": 2110,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/50 Yıl Savaşları.md",
+        "wordCountStart": 40,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Kavşak Hisarı Muharebesi.md",
+        "wordCountStart": 1,
+        "charCountStart": 7,
+        "changes": [],
+        "id": 263
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Kral Öğütü - Boş Çarşı.md",
+        "wordCountStart": 157,
+        "charCountStart": 1331,
+        "changes": [],
+        "id": 264
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Lumiere Antlaşması.md",
+        "wordCountStart": 110,
+        "charCountStart": 978,
+        "changes": [],
+        "id": 265
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/The Fall Of Lumiere.md",
+        "wordCountStart": 3,
+        "charCountStart": 18,
+        "changes": [],
+        "id": 266
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/The Great Destruction.md",
+        "wordCountStart": 140,
+        "charCountStart": 1038,
+        "changes": [],
+        "id": 267
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Veliaht Cinayeti.md",
+        "wordCountStart": 2,
+        "charCountStart": 14,
+        "changes": [],
+        "id": 268
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Olaylar/Yağma Savaşları.md",
+        "wordCountStart": 31,
+        "charCountStart": 273,
+        "changes": [],
+        "id": 269
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Şehirler/Korvath.md",
+        "wordCountStart": 21,
+        "charCountStart": 160,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Şehirler/Lumiere.md",
+        "wordCountStart": 67,
+        "charCountStart": 516,
+        "changes": [],
+        "id": 271
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Şehirler/Tyre.md",
+        "wordCountStart": 32,
+        "charCountStart": 251,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Şehirler/Vharnor.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 273
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Şehirler/Yeni Lumiere.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 274
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Blind Crawlers.md",
+        "wordCountStart": 4,
+        "charCountStart": 37,
+        "changes": [],
+        "id": 275
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Dev Atlar.md",
+        "wordCountStart": 3,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 276
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Keçi Boynuzlu Atlar.md",
+        "wordCountStart": 2,
+        "charCountStart": 18,
+        "changes": [],
+        "id": 277
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Mutant Akrepler.md",
+        "wordCountStart": 3,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yaratıklar/Pusucular.md",
+        "wordCountStart": 3,
+        "charCountStart": 29,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 732,
+        "charCountStart": 5280,
+        "changes": [],
+        "id": 280
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 27,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 44,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 282
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 448,
+        "charCountStart": 3324,
+        "changes": [],
+        "id": 283
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "Flux/Yıkım Takvimi.md",
+        "wordCountStart": 7,
+        "charCountStart": 63,
+        "changes": [],
+        "id": 284
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Olaylar/1 V 5,6,7.md",
+        "wordCountStart": 50,
+        "charCountStart": 453,
+        "changes": [],
+        "id": 285
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 732,
+        "charCountStart": 5280,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Başlıksız.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 17,
+            "c": 109
+          },
+          {
+            "timeKey": "13:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:30",
+            "w": -17,
+            "c": -111
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 389,
+        "charCountStart": 3245,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 141
+          },
+          {
+            "timeKey": "14:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Başlıksız.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 289
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Mekanlar/Len's Patch.md",
+        "wordCountStart": 67,
+        "charCountStart": 487,
+        "changes": [],
+        "id": 290
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Mekanlar/Krater Limanı.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Mekanlar/Krater Körfezi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 292
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Mekanlar/Körfez Feneri.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 293
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Mekanlar/Mercan Denizi.md",
+        "wordCountStart": 65,
+        "charCountStart": 550,
+        "changes": [],
+        "id": 294
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 448,
+        "charCountStart": 3324,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 253,
+        "charCountStart": 1921,
+        "changes": [],
+        "id": 296
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 44,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2026-07-16",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 27,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2026-07-18",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 27,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 299
+      },
+      {
+        "date": "2026-07-18",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 409,
+        "charCountStart": 3386,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2026-07-18",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Endric.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "23:25",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 301
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 106,
+        "charCountStart": 895,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "00:50",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 302
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Alderyn Simyageri.md",
+        "wordCountStart": 50,
+        "charCountStart": 446,
+        "changes": [],
+        "id": 303
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Soylu Alderyn Leydisi.md",
+        "wordCountStart": 59,
+        "charCountStart": 476,
+        "changes": [
+          {
+            "timeKey": "00:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Koca Viking.md",
+        "wordCountStart": 22,
+        "charCountStart": 217,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "00:25",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 305
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Endric.md",
+        "wordCountStart": 5,
+        "charCountStart": 49,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 18,
+            "c": 159
+          },
+          {
+            "timeKey": "00:25",
+            "w": 2,
+            "c": 1
+          }
+        ],
+        "id": 306
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Arthur.md",
+        "wordCountStart": 2,
+        "charCountStart": 15,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 20,
+            "c": 180
+          }
+        ],
+        "id": 307
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 216,
+        "charCountStart": 1850,
+        "changes": [],
+        "id": 308
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/Vikingler.md",
+        "wordCountStart": 95,
+        "charCountStart": 798,
+        "changes": [],
+        "id": 309
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/State Of İnovation.md",
+        "wordCountStart": 38,
+        "charCountStart": 338,
+        "changes": [],
+        "id": 310
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 427,
+        "charCountStart": 3707,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": -17,
+            "c": -124
+          }
+        ],
+        "id": 311
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 662,
+        "charCountStart": 5629,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 3,
+            "c": 31
+          }
+        ],
+        "id": 312
+      },
+      {
+        "date": "2026-07-19",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 52,
+        "charCountStart": 499,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 3,
+            "c": 31
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Krallıklar/Deamor.md",
+        "wordCountStart": 55,
+        "charCountStart": 530,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Rvai.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "12:40",
+            "w": 20,
+            "c": 180
+          },
+          {
+            "timeKey": "12:50",
+            "w": 10,
+            "c": 84
+          },
+          {
+            "timeKey": "13:05",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "13:35",
+            "w": -4,
+            "c": -21
+          },
+          {
+            "timeKey": "14:00",
+            "w": 9,
+            "c": 83
+          },
+          {
+            "timeKey": "14:05",
+            "w": 9,
+            "c": 88
+          },
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 15
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 106,
+        "charCountStart": 896,
+        "changes": [],
+        "id": 316
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Alderyn Simyageri.md",
+        "wordCountStart": 50,
+        "charCountStart": 446,
+        "changes": [],
+        "id": 317
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Alfa Kurt.md",
+        "wordCountStart": 63,
+        "charCountStart": 512,
+        "changes": [],
+        "id": 318
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Koca Viking.md",
+        "wordCountStart": 24,
+        "charCountStart": 229,
+        "changes": [],
+        "id": 319
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Arthur.md",
+        "wordCountStart": 22,
+        "charCountStart": 195,
+        "changes": [],
+        "id": 320
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Dranor.md",
+        "wordCountStart": 36,
+        "charCountStart": 333,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 321
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Endric.md",
+        "wordCountStart": 25,
+        "charCountStart": 209,
+        "changes": [],
+        "id": 322
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Soylu Alderyn Leydisi.md",
+        "wordCountStart": 59,
+        "charCountStart": 477,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Lyra.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 29,
+            "c": 257
+          },
+          {
+            "timeKey": "14:15",
+            "w": 54,
+            "c": 459
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 410,
+        "charCountStart": 3583,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutantlar/Taşkınlar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 326
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Olaylar/Taşkın Faciası.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 327
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Kavramlar/Taşkın Tekniği.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 328
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Kavramlar/Cronium.md",
+        "wordCountStart": 2,
+        "charCountStart": 16,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Kavramlar/Diyarlar.md",
+        "wordCountStart": 32,
+        "charCountStart": 230,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "Flux/Kavramlar/Feodal Çağ.md",
+        "wordCountStart": 17,
+        "charCountStart": 145,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Kavramlar/Diyarlar.md",
+        "wordCountStart": 32,
+        "charCountStart": 230,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 409,
+        "charCountStart": 3386,
+        "changes": [],
+        "id": 333
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Kaleler/Deepwatch.md",
+        "wordCountStart": 24,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 334
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Mekanlar/Krater Geçidi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Mekanlar/Len's Patch.md",
+        "wordCountStart": 67,
+        "charCountStart": 487,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Kasabalar/Yosunlu Doruk.md",
+        "wordCountStart": 2,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 337
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Rvai.md",
+        "wordCountStart": 49,
+        "charCountStart": 457,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Lyra.md",
+        "wordCountStart": 83,
+        "charCountStart": 716,
+        "changes": [],
+        "id": 339
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Çelebi.md",
+        "wordCountStart": 126,
+        "charCountStart": 980,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Brotherhood of the Holy Anathema.md",
+        "wordCountStart": 173,
+        "charCountStart": 1395,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Brotherhood of the Holy Anathema/Kardeşlikten Alderyn Konsey üyesi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 342
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/2.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 343
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Gri Maskeliler/10.md",
+        "wordCountStart": 2,
+        "charCountStart": 25,
+        "changes": [],
+        "id": 344
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Dedektif Charles.md",
+        "wordCountStart": 19,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 345
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Yaratıklar/Mutant Çöl Tazıları.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 346
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Locke.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 25,
+            "c": 241
+          },
+          {
+            "timeKey": "22:10",
+            "w": 4,
+            "c": 22
+          },
+          {
+            "timeKey": "22:15",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 347
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 44,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 348
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Endric.md",
+        "wordCountStart": 25,
+        "charCountStart": 209,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "22:05",
+            "w": 6,
+            "c": 50
+          }
+        ],
+        "id": 349
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Dedektif Charles.md",
+        "wordCountStart": 19,
+        "charCountStart": 182,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 4,
+            "c": 43
+          }
+        ],
+        "id": 350
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Kral Dranor.md",
+        "wordCountStart": 36,
+        "charCountStart": 331,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Rvai.md",
+        "wordCountStart": 49,
+        "charCountStart": 457,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 3,
+            "c": 32
+          }
+        ],
+        "id": 352
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Karakterler & Topluluklar/Lyra.md",
+        "wordCountStart": 79,
+        "charCountStart": 690,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2026-07-28",
+        "filePath": "Flux/Mekanlar/Şafak Dağı.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 29,
+            "c": 230
+          }
+        ],
+        "id": 354
+      },
+      {
+        "date": "2026-08-02",
+        "filePath": "Flux/Kavramlar/5 Büyük Günah.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 355
+      },
+      {
+        "date": "2026-08-02",
+        "filePath": "Flux/Karakterler & Topluluklar/Locke.md",
+        "wordCountStart": 30,
+        "charCountStart": 273,
+        "changes": [],
+        "id": 356
+      },
+      {
+        "date": "2026-08-02",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 665,
+        "charCountStart": 5660,
+        "changes": [],
+        "id": 357
+      },
+      {
+        "date": "2026-08-08",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 665,
+        "charCountStart": 5660,
+        "changes": [],
+        "id": 358
+      },
+      {
+        "date": "2026-08-08",
+        "filePath": "Flux/Mekanlar/Box of Deamor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 359
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Yıkım Takvimi.md",
+        "wordCountStart": 7,
+        "charCountStart": 63,
+        "changes": [],
+        "id": 360
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 732,
+        "charCountStart": 5280,
+        "changes": [],
+        "id": 361
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 27,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 448,
+        "charCountStart": 3324,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 253,
+        "charCountStart": 1921,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 44,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 156,
+        "charCountStart": 1263,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2026-08-24",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 665,
+        "charCountStart": 5660,
+        "changes": [],
+        "id": 367
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Ana Hikaye Timeline.md",
+        "wordCountStart": 724,
+        "charCountStart": 5280,
+        "changes": [],
+        "id": 368
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Fikirler.md",
+        "wordCountStart": 156,
+        "charCountStart": 1263,
+        "changes": [],
+        "id": 369
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/İlham Kaynakları.md",
+        "wordCountStart": 27,
+        "charCountStart": 182,
+        "changes": [],
+        "id": 370
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 42,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 371
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 251,
+        "charCountStart": 1921,
+        "changes": [],
+        "id": 372
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Universal Timeline.md",
+        "wordCountStart": 428,
+        "charCountStart": 3324,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 373
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Yıkım Takvimi.md",
+        "wordCountStart": 7,
+        "charCountStart": 63,
+        "changes": [],
+        "id": 374
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Başlıksız.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 375
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Haritalar/World Map.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 376
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Krallıklar/Krater Adası.md",
+        "wordCountStart": 401,
+        "charCountStart": 3386,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 377
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Krallıklar/Cleavon Krallığı.md",
+        "wordCountStart": 46,
+        "charCountStart": 413,
+        "changes": [],
+        "id": 378
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Entire Continent.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 14,
+            "c": 138
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 8
+          }
+        ],
+        "id": 379
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Eyaletler/Güney Galvatya.md",
+        "wordCountStart": 45,
+        "charCountStart": 408,
+        "changes": [],
+        "id": 380
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Eyaletler/Kuzey Galvatya.md",
+        "wordCountStart": 25,
+        "charCountStart": 228,
+        "changes": [],
+        "id": 381
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Krallıklar/Thronos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 382
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Kaleler/Deepwatch.md",
+        "wordCountStart": 23,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 383
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Mekanlar/Krater Geçidi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 384
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Mekanlar/Krater Körfezi.md",
+        "wordCountStart": 2,
+        "charCountStart": 21,
+        "changes": [],
+        "id": 385
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Mekanlar/Crownkeel.md",
+        "wordCountStart": 37,
+        "charCountStart": 321,
+        "changes": [],
+        "id": 386
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Mekanlar/Box of Deamor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 387
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Kasabalar/Charleston.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 388
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "Flux/Karakterler & Topluluklar/Shiny Knigth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:20",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 389
+      },
+      {
+        "date": "2026-10-07",
+        "filePath": "Flux/Karakterler & Topluluklar/Shiny Knigth.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [],
+        "id": 390
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Shiny Knigth.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [],
+        "id": 391
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Olaylar/50 Yıl Savaşları.md",
+        "wordCountStart": 38,
+        "charCountStart": 363,
+        "changes": [],
+        "id": 392
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 663,
+        "charCountStart": 5660,
+        "changes": [],
+        "id": 393
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Locke.md",
+        "wordCountStart": 30,
+        "charCountStart": 273,
+        "changes": [],
+        "id": 394
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Krallıklar/Buharan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 395
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Cleavon Ana Dili.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 396
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Rhayca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 397
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Thorca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 398
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Faece.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 399
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Vaece.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 400
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Diller/Dorca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Dinler/Güney Dini.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 402
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Dinler/Rhaynizim.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 403
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Dinler/Tengrizm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 404
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Mekanlar/The Grand Academia.md",
+        "wordCountStart": 150,
+        "charCountStart": 1245,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 2,
+            "c": 11
+          }
+        ],
+        "id": 405
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Şehirler/Tyre.md",
+        "wordCountStart": 32,
+        "charCountStart": 251,
+        "changes": [],
+        "id": 406
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Olaylar/Alden Alder ile Sürgün Kral Turnuva.md",
+        "wordCountStart": 252,
+        "charCountStart": 2110,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 105,
+        "charCountStart": 896,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Eyaletler/Güney Galvatya.md",
+        "wordCountStart": 45,
+        "charCountStart": 408,
+        "changes": [],
+        "id": 409
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Eyaletler/Kuzey Galvatya.md",
+        "wordCountStart": 25,
+        "charCountStart": 228,
+        "changes": [],
+        "id": 410
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Eyaletler/Rainlands.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 411
+      },
+      {
+        "date": "2026-10-24",
+        "filePath": "Flux/Eyaletler/Sylon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 412
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Eyaletler/Sylon.md",
+        "wordCountStart": 2,
+        "charCountStart": 17,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Cleavon Ana Dili.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 667,
+        "charCountStart": 5688,
+        "changes": [
+          {
+            "timeKey": "03:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 415
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Mekanlar/Box of Deamor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 416
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Kitap.md",
+        "wordCountStart": 251,
+        "charCountStart": 1921,
+        "changes": [],
+        "id": 417
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Dorca.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 418
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Faece.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 419
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Rhayca.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 420
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Thorca.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 421
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Diller/Vaece.md",
+        "wordCountStart": 1,
+        "charCountStart": 4,
+        "changes": [],
+        "id": 422
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Dinler/Güney Dini.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 423
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Eyaletler/Güney Galvatya.md",
+        "wordCountStart": 45,
+        "charCountStart": 408,
+        "changes": [],
+        "id": 424
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Eyaletler/Kuzey Galvatya.md",
+        "wordCountStart": 25,
+        "charCountStart": 228,
+        "changes": [],
+        "id": 425
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Eyaletler/Rainlands.md",
+        "wordCountStart": 2,
+        "charCountStart": 16,
+        "changes": [],
+        "id": 426
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Karakterler & Topluluklar/Alden Alder.md",
+        "wordCountStart": 105,
+        "charCountStart": 896,
+        "changes": [],
+        "id": 427
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Karakterler & Topluluklar/Locke.md",
+        "wordCountStart": 30,
+        "charCountStart": 273,
+        "changes": [],
+        "id": 428
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Karakterler & Topluluklar/Lyra.md",
+        "wordCountStart": 78,
+        "charCountStart": 690,
+        "changes": [],
+        "id": 429
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Karakterler & Topluluklar/Mutant Katili.md",
+        "wordCountStart": 183,
+        "charCountStart": 1490,
+        "changes": [],
+        "id": 430
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Karakterler & Topluluklar/Neraxis Kraliçesi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 431
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Krallıklar/Araplar.md",
+        "wordCountStart": 240,
+        "charCountStart": 2055,
+        "changes": [],
+        "id": 432
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Krallıklar/Buharan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 433
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Krallıklar/Tengri.md",
+        "wordCountStart": 214,
+        "charCountStart": 1850,
+        "changes": [],
+        "id": 434
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "Flux/Krallıklar/Neraxis.md",
+        "wordCountStart": 412,
+        "charCountStart": 3610,
+        "changes": [],
+        "id": 435
+      }
+    ]
+  }
+}

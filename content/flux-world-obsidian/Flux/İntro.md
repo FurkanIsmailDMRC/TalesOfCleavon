@@ -1,3 +1,6 @@
+
+---
+
 - Arcane açılışı gibi sahne sahne bazı karakterler olaylar ve itemler gelecek.
 - Arkada main theme çalacak.
 - sahneler:
