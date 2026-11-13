@@ -5866,6 +5866,34 @@
           }
         ],
         "id": 503
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "Flux/İntro.md",
+        "wordCountStart": 42,
+        "charCountStart": 349,
+        "changes": [
+          {
+            "timeKey": "02:05",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 504
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "Flux/Krallıklar/Alderyn.md",
+        "wordCountStart": 661,
+        "charCountStart": 5641,
+        "changes": [
+          {
+            "timeKey": "01:50",
+            "w": 0,
+            "c": 7
+          }
+        ],
+        "id": 505
       }
     ]
   }

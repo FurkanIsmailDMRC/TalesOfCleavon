@@ -69,7 +69,7 @@ Demacia benzeri bir yapı — adalet söylemi güçlü ama hiç adil değil. Bü
 ## Başkent 
 
 - Başkent bir yarımada üzerinde kurulu. İstanbul Fatih gibi, **[[Lumiere]]** etrafında 3 boğaz var.
-- Lumiere Sarayı, cam saray olarak da biliniyor çünkü Arapların **[[mozaik çölü]]**'nden çıkan camlar kullanılıyor.
+- Lumiere Sarayı, cam saray olarak da biliniyor çünkü Arapların **[[Mozaik Çölü]]**'nden çıkan camlar kullanılıyor.
 - Beyaz şehir olarak da bilinir çünkü mimaride bolca mermer ve cam kullanılmakta.
 
 ---

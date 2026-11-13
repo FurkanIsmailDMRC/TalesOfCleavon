@@ -83,7 +83,7 @@ type: image
 -- -
 ## Flux Etkisi
 
-- Ada halkı **[[Fluxium]]**'ına çok maruz kaldığından **[[mutasyon]]** lar normalleşmiş
+- Ada halkı **[[Fluxium]]**'ına çok maruz kaldığından **[[Mutasyon]]** lar normalleşmiş
 - Halk mutasyonlarının farkında bile değil, normal sayıyorlar
 - Bazı kişiler bunun mutasyon olduğunu biliyor ve [[Neraxis]] Akademisine gitmek istiyor
 - Ama hükümet [[Neraxis]]'i düşman gördüğünden mutantları göndermiyor

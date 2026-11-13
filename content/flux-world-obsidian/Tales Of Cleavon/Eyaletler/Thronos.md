@@ -5,4 +5,4 @@
 ## Genel Bilgi
 
 - [[Alderyn]]'in eyaletlerinden biri olup en eski insan yerleşimlerinin de bulunduğu eski bir eyalettir.
-- Zamanında [[Flux/Krallıklar/Thronos|Thronos]] Krallığı buradan dünyaya hükmetmiştir.
+- Zamanında [[Tales Of Cleavon/Krallıklar/Thronos|Thronos]] Krallığı buradan dünyaya hükmetmiştir.
