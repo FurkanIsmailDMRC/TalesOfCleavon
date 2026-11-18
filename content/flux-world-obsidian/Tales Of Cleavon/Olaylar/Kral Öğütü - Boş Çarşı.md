@@ -6,7 +6,7 @@
 - Hikayenin başlangıç sahnesidir.
 - Arkada Far From Any Road müziği çalar.
 - Savaştan yeni çıkmış ve ateşkes imzalamış **[[Neraxis]]** ve **[[Alderyn]]** krallıkları sefalet içinde.
-- **[[Kral Arthur]]** üç oğlunu da yanına alıp (**[[Sürgün Kral]], [[Ölü Prens]], [[Küçük Prens]]**) **[[Neraxis]]**'in kurak topraklarında yakın köylerin kontrolünü gerçekleştirmeye yanlarında muhafızlarla birlikte çıkmışlardır. 
+- **[[Kral Arthur]]** üç oğlunu da yanına alıp (**[[Sürgün Kral]], [[Ölü Kral]], [[Küçük Prens]]**) **[[Neraxis]]**'in kurak topraklarında yakın köylerin kontrolünü gerçekleştirmeye yanlarında muhafızlarla birlikte çıkmışlardır. 
 - Yaz mevsiminin tam ortasıdır, krallık kuraktır.
 - Bu ekip bu sıcakta yol üstünde ilerlerken kameramız güneşten aşağı doğru inerek karakterlerimizi bize ilk defa gösterir ve arkada bu müzik çalar.
 

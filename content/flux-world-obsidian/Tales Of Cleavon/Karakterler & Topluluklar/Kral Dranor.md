@@ -11,5 +11,4 @@
 - **Irk:** *[[Deamor]]*
 ---
 
-- **[[Deamor]] krallığının kralıdır.
 - Samimi olmasıyla ve halkla olan etkileşimleri ile tanınır.

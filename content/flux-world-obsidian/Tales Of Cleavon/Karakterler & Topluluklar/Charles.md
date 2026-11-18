@@ -15,5 +15,5 @@ cesetlerdeki işaretleri çözmeye çalışır.
 ## Genel Bilgi
 
 - Charles [[Alderyn]]'de [[Mutant Katili]] vakalarını çözmeye çalışan [[Bulucular]] dan biridir.
-- Bu vakayı çözmüş ve "The Golden Finder" lakabını almıştır.
+- Bu vakayı çözmüş ve ***"The Golden Finder"*** lakabını almıştır.
 - Ölümünün ardından tarih kitaplarına "Charles the Suspicious" lakabı da eklenmiştir.

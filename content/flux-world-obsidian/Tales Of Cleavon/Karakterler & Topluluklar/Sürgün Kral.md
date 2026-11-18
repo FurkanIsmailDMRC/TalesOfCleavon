@@ -14,9 +14,9 @@
 - Annesi onu en çok seviyor
 
 ## Hikayesi
-- Babası bir yaş büyük olduğu için **[[Ölü Prens]]** 'yi varis seçti
+- Babası bir yaş büyük olduğu için **[[Ölü Kral]]** 'yi varis seçti
 - Buna sinirlenmiş gibi yapmadı
-- **[[Ölü Prens]]** 'nin taç giyme töreninde onu bıçaklayarak öldürdü
+- **[[Ölü Kral]]** 'nin taç giyme töreninde onu bıçaklayarak öldürdü
 - Amcası tarafından sürgüne gönderildi
 - Sürgünde yeni insanlarla tanıştı — aralarında **[[Koca Viking]]** 'un sözünü ettiği bir barbar da var, kendi kardeşlerini öldürüp kemiklerinden kemik çorbası yaptığını anlatan biri
 
@@ -31,7 +31,7 @@
 Turnuva sonrası [[Alden Alder]] şoka uğradı, saldırıya geçti, bir yetkiliyi öldürdü ama prens olduğu için ceza almadı.
 
 ## Diyalog (Taç Giyme Töreninden Önce)
-> **[[Ölü Prens]]:** "Babamız haklıydı kardeşim. Bu krallık güçlü olanı ister."
+> **[[Ölü Kral]]:** "Babamız haklıydı kardeşim. Bu krallık güçlü olanı ister."
 > **Sürgün Prens X:** "Hayır. Bu krallık sadece doğru zamanda doğru hançeri ister."
 > *(Ve sonra onu bıçaklar.)*
 

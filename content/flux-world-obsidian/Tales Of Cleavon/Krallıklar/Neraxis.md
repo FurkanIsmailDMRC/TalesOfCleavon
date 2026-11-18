@@ -32,7 +32,7 @@
 ## Kraliyet Ailesi
 
 - **[[Sürgün Kral]]** — 18 yaşında, sürgünde
-- **[[Ölü Prens]]** — 19 yaşında, **[[Veliaht Cinayeti]]** olayında öldürüldü
+- **[[Ölü Kral]]** — 19 yaşında, **[[Veliaht Cinayeti]]** olayında öldürüldü
 - **[[Küçük Prens]]** — 9 yaşında, şu anki kral
 - **[[Kral Naibi Amca]]** — kral olmak istiyordu ama kardeşi buna izin vermedi
 

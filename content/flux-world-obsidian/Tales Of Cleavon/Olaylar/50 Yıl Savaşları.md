@@ -4,7 +4,7 @@
 ## Genel Bilgi 
 
 - **[[Alderyn]]** ve **[[Neraxis]]**'in **[[Cleavon Krallığı]]**'nın kıtadaki topraklarını ele geçirmek için düzenlenen bir savaştır.
-- 500AD de başlayıp 550AD de sona ermiştir.
+- 600AD de başlayıp 650AD de sona ermiştir.
 
 -- -
 ## Taraflar

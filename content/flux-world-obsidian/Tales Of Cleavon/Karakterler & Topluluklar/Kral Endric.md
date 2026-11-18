@@ -1,6 +1,7 @@
 #alderyn #karakter #kral 
 
 ### *Lakaplar*
+
 - The Addicted King (Bağımlı Kral)
 
 ---

@@ -3,11 +3,13 @@
 [[Hunlar]] halkının saygı duyduğu yaşlı lider. [[Tengri Ana Karakteri]]'nin babası.
 
 ## Fiziksel Özellikler
+
 - Çok yaşlı
 - Yarı kel
 - Beyaz saçları arkadan bağlı
 
 ## Kişilik
+
 - Oturmayı kalkmayı bilen biri — ölçülü, deneyimli
 - Sözleri ağır basar
 

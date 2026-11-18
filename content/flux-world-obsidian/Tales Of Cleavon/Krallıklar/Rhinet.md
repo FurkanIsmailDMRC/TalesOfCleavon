@@ -21,13 +21,13 @@
 
 - [[Neraxis]]'in bulunduğu, kıtanın en büyük yarımadasının kuzeyindeki küçük bir yarımada bulunur.
 - Büyük şehirleri yok, küçük köyler ve kaleler topluluğudur.
-- Maden açısından çok zenginlerdir. **[[Rhinet Çeliği]]** adını verdikleri kendi çelik alaşımlarını üretirler.
+- Maden açısından çok zenginlerdir. **[[Rhinet Çeliği (Kara Çelik)]]** adını verdikleri kendi çelik alaşımlarını üretirler.
 - İklimi sert, kurak; kışın soğuk — halk doğal olarak dayanıklıdır.
 
 ---
 ## Ekonomi
 
-- **[[Rhinet Çeliği]]** (Kara Çelik) — kıtanın en sağlam çeliğidir.
+- **[[Rhinet Çeliği (Kara Çelik)]]** (Kara Çelik) — kıtanın en sağlam çeliğidir.
 - [[Neraxis]]'e zırh, metal parçalar ve imalat ürünleri göndererek geçimini sağlıyorlar.
 - [[Neraxis]]'e gönderilen zırhlar ince ve hafif, kendi askerleri için ağır ve kalın zırhlar üretiyorlar.
 
