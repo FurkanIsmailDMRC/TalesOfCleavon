@@ -14,5 +14,4 @@
 - **Takvim:** *Yıkım Takvimi*
 - **Din:** *Ana Din*
 
--- -
-
+---
