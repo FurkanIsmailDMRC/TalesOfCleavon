@@ -10,16 +10,15 @@
 
 #### **Bilimsel Açıklama:**
 
-> *Flux elementinin yaydığı spesifik gama tabanlı iyonize radyasyon, insan genomunun **24. kromozomunda** bulunan ve normal popülasyonda intron (fonksiyonsuz/çöp) konumda olan regülatör gen dizilimlerini kalıcı olarak aktif konuma getirmiştir. Bu genetik ekspresyon (açığa çıkma), merkezi ve periferik sinir sistemindeki nöronların hücresel mimarisini mikroskobik düzeyde yeniden yapılandırır.*
-
+> [!info]
+> Fluxium elementinin yaydığı spesifik gama tabanlı iyonize radyasyon, insan genomunun **24. kromozomunda** bulunan ve normal popülasyonda intron (fonksiyonsuz/çöp) konumda olan regülatör gen dizilimlerini kalıcı olarak aktif konuma getirmiştir. Bu genetik ekspresyon (açığa çıkma), merkezi ve periferik sinir sistemindeki nöronların hücresel mimarisini mikroskobik düzeyde yeniden yapılandırır.
 >Aksonitlerin gücü, sıradan insanlarda lineer (doğrusal) işleyen aksiyon potansiyelinin, eksponansiyel (katlanarak artan) bir hiper-hıza ulaşması prensibine dayanır:
 >
->1-**Hiper-Permeabilite (Aşırı Geçirgenlik):** Aksonit nöronlarının akson membranında (hücre zarında) yer alan voltaj kapılı **Sodyum ($Na^+$) ve Potasyum ($K^+$) kanalları**, Flux reseptörlerinin uyarılmasıyla normal bir homonide göre bin kat daha yüksek bir frekansla açılıp kapanma yeteneği kazanmıştır.
+>1-**Hiper-Permeabilite (Aşırı Geçirgenlik):** Aksonit nöronlarının akson membranında (hücre zarında) yer alan voltaj kapılı **Sodyum ($Na^+$) ve Potasyum ($K^+$) kanalları**, Fluxium reseptörlerinin uyarılmasıyla normal bir homonide göre bin kat daha yüksek bir frekansla açılıp kapanma yeteneği kazanmıştır.
 >
  >2-**Aşırı Hızlı Sinaptik Transmisyon:** Sinaps boşluklarında nörotransmitter maddelerin (özellikle _asetilkolin_ ve _glutamat_) ekzositoz (hücre dışına salınım) ve geri alım (reuptake) mekanizmaları milisaniyeler içinde gerçekleşir.
  >
 >3- **Elektrostatik İndüksiyon:** Nöron hattı boyunca saniyede milyonlarca kez tekrarlanan bu ekstrem **depolarizasyon** (kutuplaşma bozulması) ve **repolarizasyon** (yeniden kutuplaşma) döngüleri, hücresel düzeyde devasa bir iyonik sürtünme yaratır. Akson boyunca akan bu kontrolsüz mikro-akım, Maxwell denklemlerine uygun olarak periferik dokularda ve epidermis (üst deri) yüzeyinde çok yüksek bir **elektrostatik yük (statik elektrik) birikimine** yol açar.
-
 >Mutantın kendi ürettiği akımın altında elektro-kimyasal çöküş (cardiac arrest veya doku nekrozu) yaşamasını engelleyen iki temel adaptasyon mevcuttur:
 >
 >    1- **Miyelin Kılıf Hipertrofisi:** Çevresel sinir sistemindeki Schwann hücreleri, aksonların etrafını sarmalayan, lipit (yağ) oranı ekstrem düzeyde yüksek ve kalın bir miyelin kılıf tabakası sentezler. Bu yüksek dirençli lipit tabakası, akımın iç organlara ve çizgili kas dokularına sızmasını önleyen biyolojik bir yalıtkan (izolatör) görevi görür.
@@ -31,7 +30,7 @@
 ## Avantajları
 
 - Yüksek voltaja sahip olup elektriği kendini savunma silahı olarak kullanabilme.
-- Metal kılıçlar, kalkanlar veya zırhlarla etkileşime girerik giyen kişiyi anında aşırı yükleyerek kül etme.
+- Metal kılıçlar, kalkanlar veya zırhlarla etkileşime girerek giyen kişiyi anında aşırı yükleyerek kül etme.
 - Reflekslerin keskinleşmesi.
 
 ---

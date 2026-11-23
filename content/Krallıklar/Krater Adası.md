@@ -56,7 +56,7 @@ type: image
 
 - Dünya üzerindeki en büyük ada.
 - Yıllar önce düşen büyük meteor burada bir körfez yarattı → **[[Krater Körfezi]]**
-- Meteorlar **[[Fluxium]]** açısından zengin olduğundan adada flux madeni bol.
+- Meteorlar **[[Fluxium]]** açısından zengin olduğundan adada fluxium madeni bol.
 - Ada üzerinde aktif bir volkan bulunmaktadır.
 - **[[Krater Geçidi]]**, **[[Krater Körfezi]]**'nin okyanusa olan tek çıkış noktasıdır.
 - **[[Len's Patch]]** körfezin **[[Krater Geçidi]]**'ne en uzak olan kısımdır. Mükemmel eğimde olan bir sıradağ yamacıdır. Kıtanın en güzel manzaralarından biri buradaki manzaradır. 

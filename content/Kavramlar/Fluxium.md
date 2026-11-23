@@ -21,13 +21,13 @@ Dünyadaki tüm mutasyonların kaynağı. Meteor yağmurlarıyla dünyaya geldi.
 
 ## Yaşayan Örnekler
 
-- [[Hunlar]]'nin dev savaş atları — flux etkisiyle büyüdüler
+- [[Hunlar]]'nin dev savaş atları — fluxium etkisiyle büyüdüler
 - [[Vikingler]] bölgesindeki dev ispermeçet balinaları
 - [[Mozaik Çölü]]'ndeki zehirli mutant akrepler
 - [[Krater Adası]] halkı — mutasyonları o kadar normalleşti ki farkında bile değiller
 
 ## Politik Kullanım
-- [[Alderyn]] Gizli Konseyi flux taşı kullanarak kendilerine gizlice mutasyon yapıyor
+- [[Alderyn]] Gizli Konseyi fluxium taşı kullanarak kendilerine gizlice mutasyon yapıyor
 - [[Krater Adası]] korsanlarından satın alıyorlar — korsanlar değerini bilmiyor
 - [[Alderyn]]'de büyü ve mutasyon resmi olarak yasak
-- [[Akçaağaç Ormanı]] özü flux etkisini kısmen engelliyor
+- [[Akçaağaç Ormanı]]'ndaki ağaçlardan çıkarılan [[Alder Şurubu]], fluxium etkisini kısmen engelliyor

@@ -37,7 +37,7 @@
 - Tarihte "The Great Destruction" adı verilen meteor yağmuru olayı yaşandı.
 - Pek çok ülke bu olayı milat olarak kabul etti ve yıkım takvimi oluştu.
 - Bundan öncesinde farklı takvimler kullanılıyordu fakat günümüzde halen bu eski takvimleri kullananlar krallıklar var.
-- Bu olay ayrıca dünya üzerine flux elementinin gelmesinin sağlamasıyla insanlarda pek çok mutasyona sebep oldu.
+- Bu olay ayrıca dünya üzerine fluxium elementinin gelmesinin sağlamasıyla insanlarda pek çok mutasyona sebep oldu.
 
 ## A.D. 150-200 : Akademinin inşası
 

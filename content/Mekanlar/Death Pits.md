@@ -6,7 +6,7 @@
 - Bilinen haritanın en doğusunda kurak çöllerin bile ardında bulunan geçilemez kanyonlardır.
 - Hava sıcaklıkları 50 derecelere kadar çıkabilir ve yüzey sıcaklıkları 60-70 derece arasında değişiklik gösterir.
 - Buraya death pits denmesinin ana sebebi kurak olmasının yanında burada yaşayan kayıtlanamamış mutantlar ve yaratıklardır.
-- Aşırı yüksek sıcaklıklar burada daha önce hiç görülmemiş mutasyonlara sebep olur ancak söylentilere göre burada flux elementi kaynağı aşırı azdır hatta bazı kaynaklara göre yoktur. Buna rağmen burada bazı mutant yaratıkların kayıtlara geçmesi tüm kıtada gizem yaratmıştır.
+- Aşırı yüksek sıcaklıklar burada daha önce hiç görülmemiş mutasyonlara sebep olur ancak söylentilere göre burada fluxium elementi kaynağı aşırı azdır hatta bazı kaynaklara göre yoktur. Buna rağmen burada bazı mutant yaratıkların kayıtlara geçmesi tüm kıtada gizem yaratmıştır.
 - Buradaki kanyonların derinlikleri devasa boyutlara ulaşabilir.
 - Labirent gibi bir yapısı vardır.
 - Buradan esen rüzgarın götürdüğü toz tanecikleri kanyon boyunca hızlanarak ilerlediğinden buradaki canlıları keser, derilerini yüzer, paramparça eder.
