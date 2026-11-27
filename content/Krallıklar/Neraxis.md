@@ -6,7 +6,7 @@
 
 - **Başkent:** *[[Korvath]]*
 - **Yönetim Biçimi:** *Mutlak Monarşi*
-- **Yönetim Anlayışı:** *Güç Odaklı*
+- **Yönetim Anlayışı:** *Güç Odaklı, Potansiyeli Hayata Geçir (Use The Potential)*
 - **Sembol:** *Çapraz Şekilde Bir Kılıç Ve Asa*
 - **Askeri Güç:** *Disiplinli ordu + [[Mutantlar Birliği]]*
 - **Ana Gelir:** *Vasal ve Halk Vergileri + Savaş Gelirleri*
